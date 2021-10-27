@@ -57,7 +57,7 @@ There are parts of the program cut off or postponed, then I ask you to write me 
 
 ### Support or Contact
 
-You have problems with the tuning pack? [Discord](https://discord.gg/qrXmqSq) or write at TuningPack@MinersWin.de
+You have problems with the tuning pack? [Discord](https://discord.gg/qrXmqSq) or write at support@tuning-pack.de
 
 ### The old Tuning Pack 3.1
 
